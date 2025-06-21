@@ -1,2 +1,8 @@
 title: Driver Demand Prediction
 theme: minima
+
+header_pages:
+  - index.md
+  - notebook.md
+  - resume.md
+  - contact.md
