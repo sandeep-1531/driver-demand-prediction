@@ -66,7 +66,7 @@ This dashboard visualizes customer purchasing behavior by showing:
 
 👉 [**View Dashboard on Tableau Public**](https://public.tableau.com/app/profile/sandeep.kumar.mishra2976/viz/CustomerPurchaseInsightsDashboard/CustomerPurchaseInsightsDashboard)
 
-![Dashboard Screenshot](dashboard_screenshot.png)
+![Dashboard Screenshot](dashboard-screenshot.png)
 
 
 ## 👨‍💻 Author
