@@ -48,6 +48,21 @@ To estimate the time required for delivery using key features such as:
 - 🧾 [requirements.txt](requirements.txt)
 
 ---
+## 🧭 SQL + Tableau Project: Customer Purchase Insights
+
+📊 Live dashboard hosted on Tableau Public  
+👉 [View it here](https://public.tableau.com/app/profile/sandeep.kumar.mishra2976/viz/CustomerPurchaseInsightsDashboard/CustomerPurchaseInsightsDashboard)
+
+### 📦 Dataset  
+- [customer_data.csv](./customer_data.csv)
+
+### 🔍 Features
+- Revenue breakdown by category
+- Monthly order trends
+- Interactive filters
+
+![Preview](dashboard-screenshot.png)
+
 
 ## 👨‍💻 Author
 
