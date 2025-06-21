@@ -7,4 +7,4 @@ title: Resume
 
 👉 [View LinkedIn Profile](https://www.linkedin.com/in/your-link-here)
 
-Or you can upload your resume PDF to the repository and link it here.
+Or upload your resume PDF to the repository and link it here.
