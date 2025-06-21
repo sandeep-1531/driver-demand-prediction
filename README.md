@@ -56,11 +56,24 @@ This helps in better allocation of delivery drivers and improving delivery estim
    jupyter notebook Notebook_Driver_Demand_Prediction.ipynb
    ```
 
+## 🧭 SQL + Tableau Project: Customer Purchase Insights
+
+This dashboard visualizes customer purchasing behavior by showing:
+
+- Total revenue by product category
+- Monthly revenue trend over time
+- Category-level filters and interactive visuals
+
+👉 [**View Dashboard on Tableau Public**](https://public.tableau.com/app/profile/sandeep.kumar.mishra2976/viz/CustomerPurchaseInsightsDashboard/CustomerPurchaseInsightsDashboard)
+
+![Dashboard Screenshot](dashboard_screenshot.png)
+
+
 ## 👨‍💻 Author
 
 **Sandeep Kumar Mishra**  
 Data Analyst | Tableau Certified | IISc Data Science Graduate  
-[LinkedIn](https://www.linkedin.com/in/sandeep-kumar-mishra) *(replace with your actual link)*
+[LinkedIn](https://www.linkedin.com/in/sandeep-km-09ab4892/)
 
 ---
 
